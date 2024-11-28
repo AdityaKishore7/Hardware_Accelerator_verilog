@@ -1,4 +1,4 @@
-# Hardware-Accelerator-in-veriilog-using-systolic-array
+# Hardware-Accelerator-in-verilog-using-systolic-array
 AI Accelerator for efficient convolution and matrix multiplication operations. Seamlessly integrates with a CPU via AXI4 interfaces. Key components: AXI4 Slave/Master interfaces, Controller, Input/Weight/Output memories, 9x9 Processing Elements. Implements interrupt handling. Designed using Verilog.
 
 # AI Accelerator for Convolution and Matrix Multiplication
